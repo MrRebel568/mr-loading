@@ -1,5 +1,5 @@
-# Custom-Loading-Screen
-Custom Loading Screen!
+# Mr-Loading
+Mr-Loading Screen!
 
 https://discord.gg/WKhp38uc7Y
 
